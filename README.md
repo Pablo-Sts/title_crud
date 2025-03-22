@@ -1,36 +1,90 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Title CRUD
 
-## Getting Started
+<div align="center">
 
-First, run the development server:
+<img src="./.gitassets/capa.png" width="350px"/>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<div data-badges>
+ 
+ <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/pablo-sts/college_api?style=for-the-badge">
+ <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/stars/pablo-sts/college_api?style=for-the-badge">
+ <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/forks/pablo-sts/college_api?style=for-the-badge">
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+</div>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<div data-badges>
+ <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+ <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+ <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+</div>
 
-## Learn More
+</div>
 
-To learn more about Next.js, take a look at the following resources:
+O projeto `title_crud` é uma aplicação frontend completa, desenvolvida com Next.js, TypeScript, Tailwind CSS e Shadcn UI, projetada para consumir a API backend [college_api](https://github.com/Pablo-Sts/college_api) e fornecer uma interface de usuário intuitiva e eficiente para gerenciar os dados da tabela de títulos acadêmicos.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Funcionalidades Principais:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Listagem de Títulos: Exibição clara e organizada dos dados da tabela de títulos em uma tabela responsiva, permitindo fácil visualização e navegação.
+- CRUD Completo: Implementação completa das operações de Criar, Ler, Atualizar e Deletar (CRUD) para os títulos, permitindo a gestão completa dos dados.
+- Formulários Interativos: Formulários intuitivos e validados para a criação e edição de títulos, garantindo a integridade dos dados.
+- Feedback Visual: Notificações e mensagens de feedback claras para informar o usuário sobre o status das operações, como sucesso, erro ou confirmação.
+- Temas Claro e Escuro: Implementação de um sistema de temas claro e escuro, permitindo ao usuário escolher a preferência visual da aplicação.
+- Design Responsivo: Layout responsivo que se adapta a diferentes tamanhos de tela, garantindo uma experiência de usuário consistente em dispositivos desktop e móveis.
 
-## Deploy on Vercel
+## Tecnologias Utilizadas:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Next.js: Framework React para construção de aplicações web otimizadas e de alto desempenho.
+- TypeScript: Linguagem de programação que adiciona tipagem estática ao JavaScript, melhorando a segurança e a manutenibilidade do código.
+- Tailwind CSS: Framework CSS utilitário que permite a criação de interfaces de usuário personalizadas de forma rápida e eficiente.
+- Shadcn UI: Biblioteca de componentes React reutilizáveis e acessíveis, que seguem as melhores práticas de design e desenvolvimento.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Objetivo do Projeto:
+
+O projeto `title_crud` foi desenvolvido como requisito para a disciplina de Programação III, com o objetivo de demonstrar os conhecimentos adquiridos em desenvolvimento frontend com Next.js, TypeScript, Tailwind CSS e Shadcn UI. A aplicação serve como um exemplo prático de como construir uma interface de usuário completa e interativa para consumir uma API backend e gerenciar dados de forma eficiente.
+
+
+## Como rodar esse projeto
+
+### Requisitos
+
+- Node.js instalado
+
+### Execução
+
+1. Clone esse repositório
+
+    ```sh
+    git clone https://github.com/Pablo-Sts/title_crud
+    ```
+
+2. Acesse o diretório do projeto: 
+
+    ```sh
+    cd title_crud
+    ```
+
+3. Copie as variáveis de ambiente listads e crie um arquivo `.env` e preencha com as seguintes informações:
+
+    ```sh
+     NEXT_PUBLIC_API =
+    ```
+
+5. Instale as dependênciads do projeto com o comando `npm i`.
+
+6. Abra um terminal na pasta do projeto e execute o comando `npm run dev` para executar o projeto.
+
+## Preview
+
+![Requisição na endpoint de cursos](./.gitassets/1.png)
+![Requisição na endpoint de cursos](./.gitassets/3.png)
+![Requisição na endpoint de cursos](./.gitassets/4.png)
+![Requisição na endpoint de cursos](./.gitassets/5.png)
+
+## Links úteis
+
+- [Next JS](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Shadcd UI](https://ui.shadcn.com/)
