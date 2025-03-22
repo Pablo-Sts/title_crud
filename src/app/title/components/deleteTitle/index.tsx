@@ -54,7 +54,7 @@ export default function DeleteTitle({ title, callback }: DeleteTitleProps) {
             Você realmente deseja excluir esse Título?
           </AlertDialogTitle>
           <AlertDialogDescription>
-            Essa ação não pode ser desfeita. Este título será removtitle.ido
+            Essa ação não pode ser desfeita. Este título será removido
             permanentemente dos registros.{" "}
             <span className="font-extrabold">Título: {title.description}</span>
           </AlertDialogDescription>
