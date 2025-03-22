@@ -1,6 +1,6 @@
 import { Title } from "../types/titleTypes";
 
-const baseUrl = "http://localhost:3001/title";
+const baseUrl = `${process.env.NEXT_PUBLIC_API}/title`;
 
 export async function getTitles() {
   try {
