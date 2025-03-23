@@ -78,10 +78,10 @@ O projeto `title_crud` foi desenvolvido como requisito para a disciplina de Prog
 
 ## Preview
 
-![Requisição na endpoint de cursos](./.gitassets/1.png)
-![Requisição na endpoint de cursos](./.gitassets/3.png)
+![Requisição na endpoint de cursos](./.gitassets/2.png)
 ![Requisição na endpoint de cursos](./.gitassets/4.png)
 ![Requisição na endpoint de cursos](./.gitassets/5.png)
+![Requisição na endpoint de cursos](./.gitassets/6.png)
 
 ## Links úteis
 
