@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="./.gitassets/capa.png" width="350px"/>
+<img src="https://github.com/Pablo-Sts/title_crud/raw/master/.gitassets/capa.png" width="350"/>
 
 <div data-badges>
  
- <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/pablo-sts/college_api?style=for-the-badge">
- <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/stars/pablo-sts/college_api?style=for-the-badge">
- <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/forks/pablo-sts/college_api?style=for-the-badge">
+ <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/pablo-sts/title_crud?style=for-the-badge">
+ <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/stars/pablo-sts/title_crud?style=for-the-badge">
+ <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/forks/pablo-sts/title_crud?style=for-the-badge">
 
 
 </div>
@@ -78,10 +78,10 @@ O projeto `title_crud` foi desenvolvido como requisito para a disciplina de Prog
 
 ## Preview
 
-![Requisição na endpoint de cursos](./.gitassets/2.png)
-![Requisição na endpoint de cursos](./.gitassets/4.png)
-![Requisição na endpoint de cursos](./.gitassets/5.png)
-![Requisição na endpoint de cursos](./.gitassets/6.png)
+![Requisição na endpoint de cursos](https://github.com/Pablo-Sts/title_crud/raw/master/.gitassets/2.png)
+![Requisição na endpoint de cursos](https://github.com/Pablo-Sts/title_crud/raw/master/.gitassets/4.png)
+![Requisição na endpoint de cursos](https://github.com/Pablo-Sts/title_crud/raw/master/.gitassets/5.png)
+![Requisição na endpoint de cursos](https://github.com/Pablo-Sts/title_crud/raw/master/.gitassets/15.png)
 
 ## Links úteis
 
