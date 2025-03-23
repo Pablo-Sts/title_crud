@@ -81,7 +81,7 @@ O projeto `title_crud` foi desenvolvido como requisito para a disciplina de Prog
 ![Requisição na endpoint de cursos](https://github.com/Pablo-Sts/title_crud/raw/master/.gitassets/2.png)
 ![Requisição na endpoint de cursos](https://github.com/Pablo-Sts/title_crud/raw/master/.gitassets/4.png)
 ![Requisição na endpoint de cursos](https://github.com/Pablo-Sts/title_crud/raw/master/.gitassets/5.png)
-![Requisição na endpoint de cursos](https://github.com/Pablo-Sts/title_crud/raw/master/.gitassets/15.png)
+![Requisição na endpoint de cursos](https://github.com/Pablo-Sts/title_crud/raw/master/.gitassets/6.png)
 
 ## Links úteis
 
